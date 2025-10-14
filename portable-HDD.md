@@ -1,0 +1,8 @@
+## WD 6TB @APFS
+
+
+## Samsung @1TB @APFS
+
+## TOSHIBA 2TB @APFS
+
+## TOSHIBA 1TB
