@@ -157,3 +157,8 @@ portable storage
 
 ### 16g-BOOK(华大USB2.0) - ~6GB available
 [书籍未整理](./u-stick/u-stick-details.md)
+
+
+
+### Third - 90GB available
+    视频教程tarball.
