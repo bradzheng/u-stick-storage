@@ -1,7 +1,7 @@
 # u-stick-storage
 portable storage
 ## Low speed U disks
-### 64GB (VIDEO-Bak) Brand: DM Thin USB2.0 ~25GB available
+### 64GB (VIDEO-Bak) Brand: DM Thin ~25GB available
 
 1. BBC-海洋
 2. BBC-人类星球
@@ -16,7 +16,7 @@ portable storage
 11. 超级大坏蛋BD中英双字1280高清.rmvb
 12. 寻找隐藏的维度BD中英双字1280高清.rmvb
 
-### Golden Disk @32G USB2.0
+### Golden Disk @32G
 1. 玩转无人机 ([法] 鲁道夫·乔巴尔) (Z-Library).pdf
 2. 爱上无人机 青少年无人机创新教程 中级 (姚俊臣，赵霜红，颜安主编) (Z-Library).pdf
 3. 零基础学飞无人机 (刘俊辉，文放主编) (Z-Library).pdf
@@ -32,7 +32,7 @@ portable storage
 13. 爱上无人机：原理结构、航拍操控与DIY实例精汇 (（美）Make杂志编辑编) (Z-Library).pdf
 14. 从刻漏到无人机：摘下控制学理论与工程的面具（知乎无人机中的城堡作品.pdf
 
-### Michael 7A @32G USB2.0  - 5.5G avail
+### Michael 7A @32G  - 5.5G avail
 1. 02Excel视频.tar.gz
 2. Keynote视频教程.tar.gz
 3. LeanExcelonMac.tar.gz
@@ -50,7 +50,7 @@ portable storage
 15. 电影感短视频.tar.gz
 
 
-### DOCUMENT 32GB USB2.0 - available ~18GB
+### DOCUMENT 32GB - available ~18GB
 1. [BT无极-www.btwuji.com].洛城机密.[中英双字.1024分辨率].rmvb
 2. [电影天堂www.dy2018.net]精英部队2BD中字.rmvb
 3. [电影天堂www.dy2018.net]超级大坏蛋DVD中英双字.rmvb
@@ -65,7 +65,7 @@ portable storage
 
 
 
-### 32g-Bak APFS USB2.0 - 31GB available
+### 32g-Bak APFS - 31GB available
 1. Object+Oriented+Analysis+And+Design+With+Applications+3Rd+Edition.pdf
 2. Wicked.Cool.Shell.Scripts.2nd.Edition.2016.10.pdf
 3. 结构思考力 -李忠秋.pdf
@@ -92,7 +92,7 @@ portable storage
 15. 早上最適合聽的輕音樂 放鬆解壓- [2020 最好聽的鋼琴精選] 抒情鋼琴曲 鋼琴曲 純鋼琴輕音樂- Relaxing Chinese Piano Music- Relaxing Music.mp4
 
 
-### SanDisc64g (SanDisc黑Travel)- APFS 64GB available
+### SanDisc64g - APFS 64GB available
 
 
 
@@ -100,7 +100,7 @@ portable storage
 
 
 
-### flipper128G(SanDisc黑Travel) - ~5GB available
+### flipper128G - ~5GB available
 1. Apple_Books@iCloud
 2. Arduino-Disc@SYNC.tar.gz
 3. BRCM@SYNC.tar.gz
@@ -155,5 +155,57 @@ portable storage
 
 
 
-### 16g-BOOK(华大USB2.0) - ~6GB available
-[书籍未整理](./u-stick/u-stick-details.md)
+### 16g-BOOK - ~6GB available
+1. 2018-12《看人心理学：一本让你读懂他人的书》[seosee.info].pdf
+2. 2019-04《反套路：复杂世界的简单法则》[seosee.info].pdf
+3. ANDROID外设开发实战@www.java1234.com.pdf
+4. Android 底层接口与驱动开发技术详解@www.java1234.com.pdf
+5. Android 应用开发与系统改造实战（王保卫, 申波） PDF 扫描版@www.java1234.com.pdf
+6. Android深度探索(卷1) HAL与驱动开发.(带书签完整高清版).李宁@www.java1234.com.pdf
+7. Android开发精要@www.java1234.com.pdf
+8. Android开发权威指南 李宁.pdf
+9. Android设计招式之美_教材.tar.gz
+10. Android系统移植和驱动开发-4.0.pdf
+11. Automating System Administration with Perl - David N. Blank-Edelman.epub
+12. Excel相关
+13. Head-First
+14. Michael_Script
+15. Object+Oriented+Analysis+And+Design+With+Applications+3Rd+Edition.pdf
+16. Python-爬虫-网页
+17. STB Q4FY19 QBR.mp4
+18. Shell.Programming.in.Unix.Linux.and.OS.X.4th.Edition.pdf
+19. System Volume Information
+20. Wicked.Cool.Shell.Scripts.2nd.Edition.2016.10.pdf
+21. Wireshark网络分析就这么简单.pdf
+23. linux-0.01
+24. linux-study-roadmap.TXT
+29. 徐宜生-Android群英传：神兵利器(带书签高清版)@www.java1234.com.pdf
+30. 高焕堂Sundy Android从程序员到架构师之路
+32. 赢在云端  云计算与未来商机.pdf
+33. 爆款文案+文案圣经如何写出有销售力的文案.pdf
+36. 微精通（[英]罗伯特·特威格尔著，江西人民出版社）.epub
+37. 深入浅出linux内存管理和调试
+38. 结构思考力 -李忠秋.pdf
+39. 积极心理学++探索人类优势的科学与实践_（美）斯奈德，（美）洛佩斯_PDF.pdf
+41. 极度效率（[以]阿米特·奥菲尔著，江西人民出版社）.epub
+42. 结构化思考·图形化表达.pdf
+44. 如何有效阅读.pdf
+45. 大脑开发秘册[2015.3].pdf
+46. 团队应该这样带  尖刀团队的12堂总裁内部课[2015.5].pdf
+47. 给孩子的写作课.pdf
+48. 自己敲开机会的门.pdf
+49. 面向对象设计与分析.pdf
+50. 谁说菜鸟不会数据分析 SPSS篇 38M全彩完整版
+51. 从零开始学创业大全集(超值白金版).azw3
+52. 孩子不爱学习父母怎么办  一个高级教师的教子笔记_13492386.pdf
+53. 《量子世界的发现之旅》.pdf
+55. 所谓高情商就是有趣和知趣.pdf
+56. 全脑演讲：左脑逻辑，右脑情商.pdf
+57. 决定你上限的不是能力而是格局.pdf
+58. 互联网精准营销：低成本引爆市场 - cx69.cn.epub
+59. 《重构——改善既有代码的设计》.pdf
+60. 毅力：如何培养自律的习惯漫画版.pdf
+61. 职场潜伏心理学：全世界最权威的88个心理学定律-张超著.pdf
+62. 春秋战国真有趣（读客熊猫君出品，套装全6册。翻开本书，在趣味盎然中，读懂整个春秋战国史！）.epub
+63. 精准拉伸：疼痛消除和损伤预防的针对性练习.pdf
+64. 去情绪化管教：帮助孩子养成高情商有教养的大脑.pdf
