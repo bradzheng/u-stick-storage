@@ -160,5 +160,5 @@ portable storage
 
 
 
-### Third - 90GB available
+### 128G #3 Third - 90GB available
     视频教程tarball.
